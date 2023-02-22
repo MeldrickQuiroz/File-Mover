@@ -1,6 +1,6 @@
 import shutil
 
-destination = '/Volumes/Saturn/MEDIA_VAULT/zPURGE_IT'
+destination = '/This/is/where/the/file/will/go'
 
 filepaths = []
 
